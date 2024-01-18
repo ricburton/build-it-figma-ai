@@ -4,13 +4,15 @@
 
 Draw and sketch UI in Figma and FigJam with this widget. Inspired by [SawyerHood/draw-a-ui](https://github.com/SawyerHood/draw-a-ui) and [tldraw/draw-a-ui](https://github.com/tldraw/draw-a-ui).
 
-Make sure to replace `OPENAI_API_KEY` with your API key.
+Make sure to replace `OPENAI_API_KEY` with your API key in the `code.js` file.
 
 ---
 
 Below are the steps to get your widget running. You can also find instructions at:
 
 https://www.figma.com/widget-docs/setup-guide/
+
+Once you have created a brand new widget, you can copy the contents of this repository into the widget folder that is created by Figma.
 
 This widget template uses TypeScript and NPM, two standard tools in creating JavaScript applications.
 
